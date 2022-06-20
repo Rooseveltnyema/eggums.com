@@ -1,0 +1,88 @@
+<!DOCTYPE html">
+<html>
+<head>
+<link rel="stylesheet" href="../css/style.css" type="text/css" media="screen">
+<link rel"stylesheet" href="../css/print.css" type="text/css" media="print">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="cache" />
+<meta name="robots" content="INDEX, FOLLOW" />
+<meta name="keywords" content="enter keywords" />
+<meta name="description" content="description here" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Elizabeth Gedi Garwo United Methodist School</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+	<div id="outer">
+    
+	<div id="wrapper">
+    	
+        <div id="logo">
+        	<img src="../images/EGGUMS.png" width="90" height="77" />
+        </div>
+        
+    <div id="social-media-icons">
+    	<ul>
+        	<li><a href="http:///www.facebook.com"><img src="../images/icons/facebook.jpg" /></a></li>
+            <li><a href="http://www.twitter.com"><img src="../images/icons/twitter.jpg" /></a></li>
+            <li><a href="http://www.snapchat.com"><img src="../images/icons/iconsss.jpg" /></a></li>
+            <li><a href="http://www.youtube.com"><img src="../images/icons/youtube.jpg" /></a></li>
+      </ul>
+    </div>
+    
+    <div id="topnav">
+    	<ul>
+        	<li><a href="../index.html">HOME</a></li>
+          <li><a href="../about.html">ABOUT US</a></li>
+            <li><a href="../administration.html">ADMINISTRATION</a></li>
+            <li><a href="../computerprograms.html">COMPUTER PROGRAMS</a></li>
+            <li><a href="../committees.html">COMMITTEES</a></li>
+            <li><a href="../contact.html">CONTACT US</a></li>
+        </ul>
+    </div>
+    
+    <div id="banner">
+    	<ul>
+        	<img src="../images/banner/Elizabeth-gedi-garwo.jpg" />
+        </ul>
+    </div>
+    <!-- TemplateBeginEditable name="content" -->
+    <div id="content">
+      <h1>Welcome to Elizabeth Gedi Garwo (EGGUMS)</h1>
+      <p align="justify">The Elizabeth Gedi Garwo United Methodist Elementary,  Junior and Senior High School was established in 2005. It is located in the Stockton  Creek Community, Lower New Georgia, Somalia Drive, Montserrado County, Liberia.  It is a Faith Based School. It is a part of the United Methodist School System  in Liberia. It was established by the George Hne Doe Memorial United Methodist  Church in Monrovia District Conference of the United Methodist Church, Liberia Annual  Conference (LAC). The George Hne Doe Memorial United Methodist  Church was established in 1998 by a group of Christians from the South East of  Liberia. These Christians came to Monrovia for various reasons. Some came to  visit relatives.  Some came to school,  while others came to seek greener pasture. Unfortunately, they were caught up  by the long civil crisis in Liberia. </p>
+      <img class="image-frame" src="../images/eggums4.jpg" /> <img class="image-frame" src="../images/eggums2.jpg" />
+      <div id="content2">
+        <p align="justify">As a result, they could not return to their respective  homes. At the same time, they had the desire to serve God, but they could not  go to any of the English speaking churches in Monrovia due to language barrier.Consequently,  they decided to congregate themselves and subsequently organized the George Hne  Doe Memorial United Methodist Church. The church has three basic ministries  namely: the Preaching Ministry, Teaching Ministry, and Singing Ministry. All  the ministries mentioned supra are very significant to the growth and  development of the church.</p>
+      </div>
+      <p>&nbsp;</p>
+    </div>
+    <!-- TemplateEndEditable -->
+    <div id="rightside">
+      <h2>EGGUMS NEWS</h2>
+        <p class="date">June 20th -24th 2022</p>
+        <h3>5th Marking Pd Test</h3>
+        <p>Elizabeth Gedi Garwo United Methodist School started its 5th marking period test on Monday June 20th 2022 and will end on June 24th 2022.</p>
+        <p class="date">June 19th, 2022</p>
+        <h3>Queen Contest</h3>
+        <p>In keeping with the adopted calendar of events. Eggums will observed its 2nd Queen Contest program.</p>
+        <p class="date">July 1st, 2022</p>
+        <h3>2nd Gala Anniversary</h3>
+        <p>Elizabeth Gedi Garwo United Methodist School will observe its 2nd Gala Anniversary in keeping with the adopted calendar of event of the academic year 2021/2022.</p>
+    </div>
+    
+    <div id="footer">
+    	<p class="footer-text">&copy;Copyright 2022: Elizabeth Gedi Garwo United Methodist School</p>
+        <p class="footer-text">Design by &copy;Roosevelt N. Nyema, Jr</p>
+    </div>
+    
+ </div>
+ </div>
+
+
+</body>
+</html>
